@@ -1,0 +1,6 @@
+Proprietary License
+
+This skill is from the Anthropic Skills repository:
+https://github.com/anthropics/skills/tree/main/skills/xlsx
+
+Please refer to the original repository for complete license terms.
